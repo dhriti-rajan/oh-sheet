@@ -18,9 +18,7 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
-    "n": "^10.0.0",
     "rxjs": "~7.8.0",
-    "stable": "^0.1.8",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.10"
   },
@@ -35,7 +33,6 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
-    "typescript": "~5.5.2",
-    "wrangler": "^3.82.0"
+    "typescript": "~5.5.2"
   }
 }
